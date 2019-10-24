@@ -1,4 +1,4 @@
-package liwenjian;
+package b2512.liwenjian;
 
 public class Main {
     public static void main(String[] args) {
